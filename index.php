@@ -274,8 +274,8 @@
                     <div class="col-lg-3 bg-blvck rounded-pill2">
                         <div class="team-member text-porcelain">
                             <img class="mx-auto rounded-circle" src="assets/img/team/1.png" alt="" />
-                            <h4>Ho Yuanxin</h4>
-                            <p class="text-darkporcelain">P1902314</p>
+                            <h4>Carter</h4>
+                            <p class="text-darkporcelain">Sierra A259</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -284,8 +284,8 @@
                     <div class="col-lg-3 bg-blvck rounded-pill2">
                         <div class="team-member text-porcelain">
                             <img class="mx-auto rounded-circle" src="assets/img/team/2.jfif" alt="" />
-                            <h4>Jarren San</h4>
-                            <p class="text-darkporcelain">P1923629</p>
+                            <h4>Jun</h4>
+                            <p class="text-darkporcelain">A266</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -294,8 +294,8 @@
                     <div class="col-lg-3 bg-blvck rounded-pill2">
                         <div class="team-member text-porcelain">
                             <img class="mx-auto rounded-circle" src="assets/img/team/3.jfif" alt="" />
-                            <h4>Ong Jin Hui</h4>
-                            <p class="text-darkporcelain">P1923504</p>
+                            <h4>Emile</h4>
+                            <p class="text-darkporcelain">A239</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -304,8 +304,8 @@
                     <div class="col-lg-3  bg-blvck rounded-pill2">
                         <div class="team-member text-porcelain">
                             <img class="mx-auto rounded-circle" src="assets/img/team/4.jfif" alt="" />
-                            <h4>Tok Xi Quan</h4>
-                            <p class="text-darkporcelain">P1923814</p>
+                            <h4>Jorge</h4>
+                            <p class="text-darkporcelain">052</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
